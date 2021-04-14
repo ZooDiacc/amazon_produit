@@ -1,0 +1,105 @@
+.containerPub {
+  width: 100%;
+}
+
+.containerImg {
+  width: 100%;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 19px;
+}
+
+.sectionP {
+  display: flex;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.designImg {
+  border-radius: 80px;
+  width: 110px;
+}
+.backPresentation {
+  text-align: center;
+}
+.pCOfP {
+  display: flex;
+}
+
+.ColumP {
+  display: flex;
+}
+
+.titleDescription {
+  text-align: center;
+  color: #debc7a;
+  max-width: 100px;
+}
+
+.catchLine {
+  height: 20px;
+  margin-top: 37px;
+  margin-left: 30px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.imgCube {
+  object-fit: cover;
+  width: 330px;
+}
+.cOPP {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pPD {
+  max-width: 330px;
+}
+.sizeOfCarpet {
+  list-style: none;
+  margin-left: 30px;
+  font-size: larger;
+  font-weight: bold;
+}
+.mainColumP {
+  margin-left: 150px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+ul {
+  list-style: none;
+}
+.textDOP {
+  font-size: 19px;
+  text-align: inherit;
+}
+
+.squareImgProduct {
+  max-width: 330px;
+  max-width: 330px;
+  background-image: url(asset/e41bad72b0da50cda65c143b86497f21.png);
+}
+
+.carpetImg0 {
+  min-width: 100%;
+}
+.carpetImg {
+  min-width: 40%;
+}
+.Offer {
+  margin-left: 70px;
+  font-size: larger;
+  font-weight: bold;
+}
+.leftColumText {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.righColumImg {
+  flex: 3;
+}
